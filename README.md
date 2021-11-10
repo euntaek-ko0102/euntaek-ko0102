@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @euntaek-ko0102 and work as an HR Manager. (@Startup in Korea)
+- 👋 Hi, I’m @euntaek and work as an HR Manager. (@Startup in Korea)
 - 👀 I’m interested in HR data and people analytics.
 - 🌱 I’m currently learning R and Python in Korea National Open University.
 - 💞️ I’d like to share a information for people analytics as a non-specialist
