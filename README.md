@@ -1,7 +1,7 @@
 - 👋 Hi, I’m euntaek and work as an HR Manager. 
 - 👀 I’m interested in HR data and people analytics.
 - 🌱 I’m currently learning R and Python in Korea National Open University.
-- 💞️ I’d like to share a information for people analytics as a non-specialist
+- 💞️ I’d like to share an information for people analytics as a non-specialist
 - 📫 How to reach me ...
 
 <!---
